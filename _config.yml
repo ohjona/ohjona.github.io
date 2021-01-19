@@ -8,13 +8,13 @@
 # Site Settings
 remote_theme             : "mmistakes/minimal-mistakes@4.19.2"
 locale                   : "en"
-title                    : "Michelle Pham"
+title                    : "Jonathan Oh"
 title_separator          : "-"
-name                     : "Michelle Pham"
-description              : "A tiny scholar"
-url                      : "http://phuongpm241.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : "Jonathan Oh"
+description              : "Always learning and thinking"
+url                      : "http://ohjona.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "phuongpm241/phuongpm241.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "ohjona/ohjona.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -78,11 +78,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Michelle (Mai Phuong) Pham"
-  avatar           : "/pics/images/Phuong_PHAM.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "A tiny scholar"
+  name             : "Jonathan Oh"
+  avatar           : "/pics/images/ohjona.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Always thinking and learning"
   location         : "Cambridge, MA"
-  email            : "phuongpm@alum.mit.edu"
+  email            : "jonathanoh1994@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -90,12 +90,12 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "phuongpm241"
+  github           : "ohjona"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "ppm2401"
+  linkedin         : "ohjohnny"
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
